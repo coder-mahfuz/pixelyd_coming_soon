@@ -1,0 +1,23 @@
+body {
+    margin: 0;
+    padding: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    background-color: #F9F9F9;
+    color: #111111;
+}
+
+.coming-soon-container {
+    text-align: center;
+}
+
+h1 {
+    font-size: 7em;
+    margin-bottom: 20px;
+}
+
+p {
+    font-size: 1.2em;
+}
